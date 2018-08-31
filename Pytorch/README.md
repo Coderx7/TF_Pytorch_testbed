@@ -2,7 +2,7 @@
 
 Dependencies :   
 Pytorch 0.4   
-tensorboard 
+tensorboardx (`pip install tensorboardx` 
 
 Experiment :   
 `bash train_cifar10.sh`
