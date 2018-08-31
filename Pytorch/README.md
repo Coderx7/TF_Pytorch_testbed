@@ -1,8 +1,8 @@
-#SimpNet CIFA10/100 training script 
+# SimpNet CIFA10/100 training script 
 
-dependencies : 
+Dependencies :   
 Pytorch 0.4
 tensorboard 
 
-Experiment : 
-bash train_cifar.sh
+Experiment :   
+`bash train_cifar10.sh`
