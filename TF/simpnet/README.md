@@ -1,7 +1,3 @@
-# ResNet in TensorFlow
-Please proceed according to which dataset you would like to train/evaluate on:
-
-
 ## CIFAR-10
 
 ### Setup
