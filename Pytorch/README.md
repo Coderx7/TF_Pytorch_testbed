@@ -1,7 +1,7 @@
 # SimpNet CIFA10/100 training script 
 
 Dependencies :   
-Pytorch 0.4
+Pytorch 0.4   
 tensorboard 
 
 Experiment :   
