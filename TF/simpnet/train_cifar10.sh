@@ -1,0 +1,2 @@
+python cifar10_download_and_extract.py
+python cifar10_main.py
