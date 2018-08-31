@@ -1,4 +1,6 @@
-place  this folder into *tf_models/official* next to other folders such as resnet, mnist, etc. then follow the instructions below: 
+
+
+Place this folder(simpnet) into the [`models/official`](https://github.com/tensorflow/models) next to other folders such as resnet, mnist, etc. Then follow the instructions below: 
 ---
 ## Running the models
 
