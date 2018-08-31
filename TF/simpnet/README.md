@@ -2,8 +2,8 @@
 
 ### Setup
 
-Simply run : 
-bash train_cifar10.sh 
+Simply run :    
+`bash train_cifar10.sh` 
 
 or follow these instructions: 
 
